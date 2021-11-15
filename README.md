@@ -1,4 +1,3 @@
-# Team-8 Project
 # Dentistimo
 
 ## What?
