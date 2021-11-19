@@ -25,7 +25,7 @@ The visualiser recieves the dentists registry over the MQTT-protocol.
 
 
 <br>
-<img src="./Component.html"><br>
+<img src="./Component"><br>
 *Component Diagram*
 
 ## Setup and running
