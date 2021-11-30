@@ -21,6 +21,11 @@ The visualiser recieves the dentists registry over the MQTT-protocol.
 * Muntasir Adam
 * Ramzi Abu Zahra
 
+## Project Managment  
+* Trello(https://trello.com/dit355h21group8)
+
+
+
 ## Software Architecture
 
 
