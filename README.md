@@ -45,6 +45,8 @@ We decided to use the Publish-Subscribe architecture style and the Pipe-Filter s
 the pipe and filter will allow more components to be added later on during the course when
 the requirements add up over time
 
+## Diagrams describing our project:
+
 ## Use-Case Diagram
 <br>
 <a herf="https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/team-8-project/-/blob/useDiagram/assets/Use-Case%20Diagram.png">
