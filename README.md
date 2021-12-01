@@ -14,6 +14,9 @@ The visualiser recieves the dentists registry over the MQTT-protocol.
 *  MapBox
 *  Node.js
 
+## Project requirements  <br />
+[ SRS ](https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/team-8-project/-/blob/main/SRS.pdf) <br />
+
 ## Developers
 * Leila Bencheikh
 * Maab Mohammedali
@@ -21,8 +24,8 @@ The visualiser recieves the dentists registry over the MQTT-protocol.
 * Muntasir Adam
 * Ramzi Abu Zahra
 
-## Project Managment  
-* Trello(https://trello.com/dit355h21group8)
+## Project Managment  <br />
+[ Trello Board ](https://trello.com/dit355h21group8) <br />
 
 
 
