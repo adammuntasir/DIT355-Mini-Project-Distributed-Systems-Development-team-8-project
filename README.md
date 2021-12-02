@@ -57,7 +57,7 @@ the requirements add up over time
 
 ## Activity Diagram
 <br>
-<a herf="https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/team-8-project/-/blob/main/assets/activity%20diagram-activity.drawio.png"><img  src="./assets/Use-Case Diagram.png"><br>
+<a herf="https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/team-8-project/-/blob/main/assets/activity%20diagram-activity.drawio.png"><img  src="./assets/activity diagram-activity.drawio.png"><br>
 
 ## Component Diagram
 <br>
