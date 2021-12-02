@@ -66,7 +66,7 @@ the requirements add up over time
 
 ### Sequence Diagram
 <br>
-<a herf="https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/team-8-project/-/blob/main/assets/Sequence_diagram.png"><img  src="Sequence_diagram.png"><br>
+<a herf="https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/team-8-project/-/blob/main/assets/Sequence_diagram.png"><img  src="./assets/Sequence_diagram.png"><br>
 
 ### Activity Diagram
 <br>
