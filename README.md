@@ -19,12 +19,13 @@ The visualiser recieves the dentists registry over the MQTT-protocol.
 *  MapBox
 *  Node.js
 
-## Developers
-* Leila Bencheikh
-* Maab Mohammedali
-* Mila Mehrvarz
-* Muntasir Adam
-* Ramzi Abu Zahra
+## Developers <br />
+[Leila Bencheikh ](https://git.chalmers.se/leilab) <br />
+[Maab Mohammedali ](https://git.chalmers.se/maabm) <br />
+[Mila Mehrvarz ](https://git.chalmers.se/mehrvarz) <br />
+[Muntasir Adam ](https://git.chalmers.se/adammu) <br />
+[Ramzi Abu Zahra ](https://git.chalmers.se/sramzi) <br />
+
 
 ## Project Managment  <br />
 [ Trello Board ](https://trello.com/dit355h21group8) <br />
