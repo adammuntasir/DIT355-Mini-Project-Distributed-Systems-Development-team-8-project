@@ -51,6 +51,7 @@ the requirements add up over time
 <br>
 <a herf="https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/team-8-project/-/blob/useDiagram/assets/Use-Case%20Diagram.png"><img  src="./assets/Use-Case Diagram.png"><br>
 
+
 ## Sequence Diagram
 <br>
 <a herf="https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/team-8-project/-/blob/main/assets/Sequence_diagram.png"><img  src="Sequence_diagram.png"><br>
@@ -58,6 +59,11 @@ the requirements add up over time
 ## Activity Diagram
 <br>
 <a herf="https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/team-8-project/-/blob/main/assets/activity%20diagram-activity.drawio.png"><img  src="./assets/activity diagram-activity.drawio.png"><br>
+
+## Deployment Diagram
+<br>
+<a herf="https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/team-8-project/-/blob/DeploymentDiagram/assets/Deployment%20diagram.png"><img 
+src="./assets/Deployment%20diagram.png""><br>
 
 ## Component Diagram
 <br>
