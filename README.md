@@ -79,8 +79,8 @@ the requirements add up over time
 
 ### Deployment Diagram
 <br>
-<a herf="https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/team-8-project/-/blob/DeploymentDiagram/assets/Deployment%20diagram.png"><img 
-src="./assets/Deployment%20diagram.png""><br>
+<a herf="https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/team-8-project/-/blob/diagram/assets/Deployment%20diagram.png"><img 
+src="./assets/Deployment%20diagram.png"><br>
 
 
 ## Setup and running
