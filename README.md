@@ -74,7 +74,7 @@ the requirements add up over time
 <a herf="https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/team-8-project/-/blob/main/assets/activity%20diagram-activity.drawio.png"><img  src="./assets/activity diagram-activity.drawio.png"><br>
 
 ### Functional Decomposition Diagram <br>
-<a herf="https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/team-8-project/-/blob/decompositionDiagram/assets/Functional%20decomposition%20diagram.png"><img  src="./assets/Functional%20decomposition%20diagram.png"><br>
+<a herf="https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/team-8-project/-/blob/updateDiagram/assets/Functional%20decomposition.png"><img  src="./assets/Functional%20decomposition.png"><br>
 
 
 ### Deployment Diagram
