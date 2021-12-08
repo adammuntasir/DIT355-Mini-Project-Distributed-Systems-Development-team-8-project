@@ -27,8 +27,21 @@ The visualiser recieves the dentists registry over the MQTT-protocol.
 [Ramzi Abu Zahra ](https://git.chalmers.se/sramzi) <br />
 
 
-## Project Managment  <br />
-[ Trello Board ](https://trello.com/dit355h21group8) <br />
+
+
+## Project Development Process  <br />
+
+We have used Agile development methodology for our projct managmnet. We have recognized the project requiremenets and breaking them into the tasks which then got included in the sprint backlog. Furthermore, in our project development process, we had sprint planning and sprint review meetings. Besides, The team members has been assigned to different roles such as Scrum master, Developers and Product owner (TA).During each sprints we set a deadline for the tasks that need to be completed individualy, as a subgroup or team works. The communication between team has been conducted by Discord, Zoom and Slack. In this project, Trello was the main managment and planning tools that has been used. Moreover, we have used software such as Draw.io with a purpose of creating architecture diagrams and Google drive for collabrotion on project documents.
+
+
+## Project Managment tools  <br />
+
+- Trello
+- Slack
+- Discord
+- Google drive
+- Draw.io
+- Zoom
 
 
 
