@@ -27,8 +27,21 @@ The visualiser recieves the dentists registry over the MQTT-protocol.
 [Ramzi Abu Zahra ](https://git.chalmers.se/sramzi) <br />
 
 
-## Project Managment  <br />
-[ Trello Board ](https://trello.com/dit355h21group8) <br />
+
+
+## Project Development Process  <br />
+
+We have used Agile development methodology for our projct managmnet. We have recognized the project requiremenets and breaking them into the tasks which then got included in the sprint backlog. Furthermore, in our project development process, we had sprint planning and sprint review meetings. Besides, The team members has been assigned to different roles such as Scrum master, Developers and Product owner (TA).During each sprints we set a deadline for the tasks that need to be completed individualy, as a subgroup or team works. The communication between team has been conducted by Discord, Zoom and Slack. In this project, Trello was the main managment and planning tools that has been used. Moreover, we have used software such as Draw.io with a purpose of creating architecture diagrams and Google drive for collabrotion on project documents.
+
+
+## Project Managment tools  <br />
+
+- Trello
+- Slack
+- Discord
+- Google drive
+- Draw.io
+- Zoom
 
 
 
@@ -54,6 +67,8 @@ the requirements add up over time
 [ TimeValidator ](https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/dataHandler) <br />
 [ FormatChecker ](https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/formatChecker) <br />
 [ BookingHandler ](https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/extractData) <br />
+[ RequestGenerator](https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/requestGenerator) <br />
+[ CircuitBreaker](https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/circuitBreaker) <br />
 
 ### Component Diagram
 <br>
@@ -74,7 +89,7 @@ the requirements add up over time
 <a herf="https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/team-8-project/-/blob/main/assets/activity%20diagram-activity.drawio.png"><img  src="./assets/activity diagram-activity.drawio.png"><br>
 
 ### Functional Decomposition Diagram <br>
-<a herf="https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/team-8-project/-/blob/updateDiagram/assets/Functional%20decomposition.png"><img  src="./assets/Functional%20decomposition.png"><br>
+<a herf="https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/team-8-project/-/blob/main/assets/Functional%20decomposition%20diagram.png"><img  src="./assets/Functional%20decomposition%20diagram.png"><br>
 
 
 ### Deployment Diagram
