@@ -78,14 +78,11 @@ the requirements add up over time
 
 ### Use-Case Diagram
 
-<br>
 ![Use Case Diagram](./images/Use_Case_Diagram.png)
-<br>
 
 ### Sequence Diagram
 
-<br>
-<a herf="https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/team-8-project/-/blob/main/assets/Sequence_diagram.png"><img  src="./assets/Sequence_diagram.png"><br>
+![Sequence Diagram](./assets/Sequence_diagram.png)
 
 ### Activity Diagram
 
