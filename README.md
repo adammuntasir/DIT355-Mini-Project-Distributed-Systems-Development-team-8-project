@@ -86,18 +86,15 @@ the requirements add up over time
 
 ### Activity Diagram
 
-<br>
-<a herf="https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/team-8-project/-/blob/diagram3/assets/activity%20diagram.png"><img  src="./assets/activity%20diagram.png"><br>
+![Activity Diagram](./images/activity diagram.png)
 
 ### Functional Decomposition Diagram <br>
 
-<a herf="https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/team-8-project/-/blob/main/assets/Functional%20decomposition%20diagram.png"><img  src="./assets/Functional%20decomposition%20diagram.png"><br>
+![Functional Decomposition Diagram](./images/Functional decomposition diagram.png)
 
 ### Deployment Diagram
 
-<br>
-<a herf="https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/team-8-project/-/blob/main/assets/Deployment%20diagram.png"><img 
-src="./assets/Deployment%20diagram.png"><br>
+![Deployment Diagram](./images/Deployment%20diagram.png)
 
 ## Setup and running
 
