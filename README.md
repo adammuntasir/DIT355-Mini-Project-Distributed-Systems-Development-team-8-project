@@ -75,8 +75,6 @@ the requirements add up over time
 *Component Diagram*
 
 ### Use-Case Diagram
-<br>
-<a herf="https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/team-8-project/-/blob/useDiagram/assets/Use-Case%20Diagram.png"><img  src="./assets/Use-Case Diagram.png"><br>
 
 
 ### Sequence Diagram
