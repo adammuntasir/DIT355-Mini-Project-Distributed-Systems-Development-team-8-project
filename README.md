@@ -92,7 +92,7 @@ the requirements add up over time
 
 ### Deployment Diagram
 
-![Deployment Diagram](./images/Deployment%20diagram.png)
+![Deployment Diagram](./images/Deployment diagram.png)
 
 ## Setup and running
 
