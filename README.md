@@ -79,7 +79,7 @@ the requirements add up over time
 ### Use-Case Diagram
 
 <br>
-![Use Case Diagram](./images/Use-Case Diagram.png)
+![Use Case Diagram](./images/Use_Case_Diagram.png)
 <br>
 
 ### Sequence Diagram
