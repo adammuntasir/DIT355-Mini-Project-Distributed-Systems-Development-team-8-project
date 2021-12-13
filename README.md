@@ -82,7 +82,7 @@ the requirements add up over time
 
 ### Sequence Diagram
 
-![Sequence Diagram](./assets/Sequence_diagram.png)
+![Sequence Diagram](./images/Sequence_diagram.png)
 
 ### Activity Diagram
 
