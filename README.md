@@ -94,6 +94,7 @@ the requirements add up over time
 <a herf="https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/team-8-project/-/blob/main/assets/Deployment%20diagram.png"><img 
 src="./assets/Deployment%20diagram.png"><br>
 
+![Deployment Diagram](./images/Deployment diagram.png)
 
 ## Setup and running
 
