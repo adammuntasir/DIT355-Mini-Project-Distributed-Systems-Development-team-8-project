@@ -94,6 +94,35 @@ the requirements add up over time
 
 ![Deployment Diagram](./images/Deployment diagram.png)
 
+## Technical Overview
+### Quality of service
+
+**FromClient: QoS:1**
+
+This topic will get published when the client wants to book a timeslot. So we need to guarantee that it will get delivered at least once to the next component in our system which is the circuitBreaker. The choice of clinic for booking purposes is also carried to the next component from Visualizer and will be delivered at least once, making the QoS of 1 crucial for assuring that the clients choices are registered and sent at least once. 
+
+**SendToCircutBreaker: QoS:0-1**
+          
+The reason behind our choice for this quality of service can relate to the type of message that will be published by requestGenerator as we are considering the most reasonable cost imposed on the MQTT broker. Since the requestGenerator will be publishing at high speed fictional data for testing purposes, the assurance that each one is sent once is not of high importance. This topic will also get subscribed by the circuitBreaker component, so we need to make sure that it will get delivered at least once by this component as our system circuitBreaker will be triggered at the exact threshold of 20 messages sent at very high frequency.
+
+**SendToFormatChecker: Qos:1-1**
+            
+This topic will be published by circuitBreaker and will be subscribed to by formatChecker. We need to make sure that message can be delivered at least once to the MQTT broker and get subscribed by formatChecker as we have to fulfill the requirement of having the booking request and the date request formats checked and validated before being received by the timeValidator component.
+
+**SendToDataHandler(TimeValidator): Qos:1-1**
+     
+This topic will be published from formatChecker to MQTT and will be subscribed by timeValidator. This component will validate that the date and time chosen by the user is within the correct range, as per our project requirements. We have considered using quality of services 1 for this topic so that the next component can process the message accordingly.
+
+**SendToExtractData(BookingHandler): Qos:1-1**
+            
+Once the booking date and time got validated, a message with the topic of SendToExtractData will be published by TimeValidator and will be subscribed by the bookingHandler component to confirm or reject the booking. So it is crucial for this action that data will be sent by the sender and received by the receiver immediately at least once.
+
+**SendToClient: Qos:1-1**
+          
+Once the booking request has been checked and the availability of the clinic has been chosen, the booking confirmation or rejection will be published by bookingHandler and subscribed by Visualizer. The quality of service 1 is the most suitable option for this topic as this is a guarantee that the message will finally reach the client.
+
+
+
 ## Setup and running
 
 ### Dependencies
