@@ -104,11 +104,12 @@ src="./assets/Deployment%20diagram.png"><br>
 2. Git (https://git-scm.com/downloads)
 
 ### Setup
-1. Move the file Global_values in the Documentations folder to the parent directory
-2. Move the file registry in the Documentations folder to the parent directory
-3. The components (dataHanlder, extractData, formatChecker) can all be setup with command (npm i mqtt)
-4. The component (Visualizer) can be setup with command  (npm init) then (npm i serve)
-5. Go to package.json and add under scripts property, above the test subproperty the following line "dev": "serve .",
+1. Change directory to team-8-project and in the terminal type node callBackJSON.js
+2. Move the file Global_values in the Documentations folder to the parent directory
+3. Move the file registry in the Documentations folder to the parent directory
+4. The components (dataHanlder, extractData, formatChecker) can all be setup with command (npm i mqtt)
+5. The component (Visualizer) can be setup with command  (npm init) then (npm i serve)
+6. Go to package.json and add under scripts property, above the test subproperty the following line "dev": "serve .",
 
 
 
