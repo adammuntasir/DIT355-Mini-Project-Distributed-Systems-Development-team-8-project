@@ -1,0 +1,22 @@
+{
+    "type": "module",
+    "name": "",
+    "version": "1.0.0",
+    "description": "[[_TOC_]]",
+    "main": "callBackJSON.js",
+    "dependencies": {
+        "fs-extra": "^10.0.0",
+        "module-exports": "^1.0.0",
+        "require": "^2.4.20"
+    },
+    "devDependencies": {},
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@git.chalmers.se:courses/dit355/test-teams-formation/team-8/team-8-project.git"
+    },
+    "author": "",
+    "license": "ISC"
+}

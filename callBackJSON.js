@@ -1,10 +1,17 @@
-var fs = require('fs');
+import fetch from "node-fetch";
+import fs from "fs-extra";
 
-fs.readFile('jsonFile.json', function(err, content) {
-    if (err) throw err;
-    var parseJson = JSON.parse(content); // json parsed
+let url = 'https://api.npoint.io/80a0d24ef69feccef7d6'
 
-    fs.writeFile('pushedJSON.json', JSON.stringify(parseJson), function(err) {
-        if (err) throw err;
+fetch(url)
+    .then(res => res.json())
+    .then((out) => {
+        console.log(out);
+        //var parseJson = JSON.parse(out); // json parsed
+        fs.writeFile('pushedJSON.json', JSON.stringify(out), function(err) {
+            if (err) throw err;
+        })
     })
-})
+    .catch(err => {
+        throw err
+    });
