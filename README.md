@@ -13,7 +13,7 @@ The visualiser recieves the dentists registry over the MQTT-protocol.
 ## Project requirements  <br />
 [ SRS ](https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/team-8-project/-/blob/newDocs/Documents/SRS.pdf)<br />
 [ SAD ](https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/team-8-project/-/blob/newDocs/Documents/Project%20SAD.pdf)<br />
-[ PMR ](team-8-project\Documents\Project report.pdf) 
+[ PMR ](https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/team-8-project/-/blob/newDocs/Documents/Project%20report.pdf) 
 
 
 ## Technologies used
