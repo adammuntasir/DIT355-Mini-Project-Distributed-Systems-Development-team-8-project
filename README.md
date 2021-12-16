@@ -15,8 +15,8 @@ In order to automatically get a list of available dentists according to the time
 The visualiser recieves the dentists registry over the MQTT-protocol.
 
 ## Project requirements  <br />
-[ SRS ](https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/team-8-project/-/blob/newDocs/Documents/SRS.pdf)<br />
-[ Final Report ](https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/team-8-project/-/blob/newDocs/Documents/Final%20Project%20Report,%20Group8.pdf)<br />
+[ SRS ](https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/team-8-project/-/blob/main/Documents/SRS.pdf)<br />
+[ Final Report ](https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/team-8-project/-/blob/main/Documents/Final%20Project%20Report,%20Group8.pdf)<br />
 
 ## Technologies used
 
