@@ -18,9 +18,6 @@ The visualiser recieves the dentists registry over the MQTT-protocol.
 [ SRS ](https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/team-8-project/-/blob/newDocs/Documents/SRS.pdf)<br />
 [ Final Report ](https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/team-8-project/-/blob/newDocs/Documents/Final%20Project%20Report,%20Group8.pdf)<br />
 
-
-[ SRS ](https://git.chalmers.se/courses/dit355/test-teams-formation/team-8/team-8-project/-/blob/main/SRS.pdf) <br />
-
 ## Technologies used
 
 - MQTT with HiveMQ broker
