@@ -38,7 +38,7 @@ We have used Agile development methodology for our project management. We have i
 
 ## Project Managment tools <br />
 
-- Trello
+- [Trello ](https://trello.com/dit355h21group8/home) <br />
 - Slack
 - Discord
 - Google drive
