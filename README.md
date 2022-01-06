@@ -78,9 +78,9 @@ the requirements add up over time
 
 #### Diagram descriptiopn :
 
-    the component diagram describe the six components in the system with their name and how they communicate with each other. each component subscribe and publish to certain topics labeled by text in each connection.
-    there is no direct connections between components as publisher publishes the message without knowing which component is going to receive it and the subscriber does not know where does the message come from.
-    finally Registry in the diagram is not a component but a file that both components Time Validator and Booking Handler have access to.
+the component diagram describe the six components in the system with their name and how they communicate with each other. each component subscribe and publish to certain topics labeled by text in each connection.
+there is no direct connections between components as publisher publishes the message without knowing which component is going to receive it and the subscriber does not know where does the message come from.
+finally Registry in the diagram is not a component but a file that both components Time Validator and Booking Handler have access to.
 
 <br />
 
